@@ -417,7 +417,7 @@
 
                 <div class="col-lg-9">
                     <div class="img-responsive">
-                        <img src=<?php echo "../storage/profiile-image/".$profile['ResImg']?> alt="<?php echo $profile['Name'].'-img'?>">
+                        <img src=<?php echo "../storage/profile-image/".$profile['ResImg']?> alt="<?php echo $profile['Name'].'-img'?>">
                     </div>
 
                     <div class="sort-box m-tb-40">
